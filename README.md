@@ -73,3 +73,9 @@ To effectively manage tickets based on their urgency, we need to set up Service 
 </p>
 <p>
 Lastly, we need to set up Help Topics to guide users in choosing the right category for their issues, so agents have a clear understanding of each ticket's nature. To add new Help Topics, go to the Admin panel, open the Manage menu, and select Help Topics. Click on "Add New Help Topic" and enter the relevant topics. For this setup, I’ve added categories like Business Critical Outage, Personal Computer Issues, Equipment Reset, and Password Request, which will help when creating and managing new tickets.
+
+
+
+<h1> Key Takeaaways</h1>
+With all the configurations in place, osTicket is now fully set up and ready to go! I can start creating and triaging tickets just like I would in a real-world environment. This hands-on experience will be invaluable for managing and resolving issues efficiently in a live setting.
+
